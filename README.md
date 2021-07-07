@@ -1,4 +1,4 @@
-# Deep Learning Based Copy-Move Forgery Detection System
+# Deep Learning Based CMFD Application
 
 ## Intro
 
