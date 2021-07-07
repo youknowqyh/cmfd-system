@@ -1,4 +1,4 @@
-# Deep Learning Based CMFD Application
+# Deep Learning Based CMFD system
 
 ## Intro
 
